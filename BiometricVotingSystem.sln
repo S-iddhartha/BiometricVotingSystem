@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "BiometricVotingSystem(1)", ".", "{193DFFB1-BFB0-4188-8511-6EF02E7B32D7}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53142"
+		Debug.AspNetCompiler.PhysicalPath = "..\BiometricVotingSystem\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53142\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53142"
+		Release.AspNetCompiler.PhysicalPath = "..\BiometricVotingSystem\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53142\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53142"
+		SlnRelativePath = "..\BiometricVotingSystem\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{193DFFB1-BFB0-4188-8511-6EF02E7B32D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{193DFFB1-BFB0-4188-8511-6EF02E7B32D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[District]
+(
+	[STATE] VARCHAR(50) NOT NULL, 
+    [DISTRICT] VARCHAR(50) NOT NULL 
+)
